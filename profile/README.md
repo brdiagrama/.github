@@ -10,9 +10,10 @@ Tornar a engenharia reversa e a visualização de bancos de dados rápida, acess
 
 A Organização é estruturada nos seguintes projetos:
 
-| Repositório | Descrição | Stack Principal |
-| :--- | :--- | :--- |
-| **`web`** | Aplicação principal. Contém o código-fonte do frontend e das funções serverless para a ferramenta de geração de diagramas. | Vue 3, Pinia, Vercel Serverless Functions |
+| Repositório | Descrição |
+| :--- | :--- |
+| **`web`** | Aplicação principal. Contém o código-fonte do frontend e das funções serverless para a ferramenta de geração de diagramas. |
+| **`doc`** | Documentação do projeto. Contém os diagramas de classe, de caso de uso e um docx sobre a documentação entregue como trabalho acadêmico. |
 
 ## Licença
 
